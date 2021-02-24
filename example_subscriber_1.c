@@ -1,6 +1,14 @@
-// This sample code is intended to show that the Connext DDS Micro 2.4.12
-// C API can be called from a C++ application. It is STRICTLY an example and
-// NOT intended to represent production-quality code.
+/*
+* (c) Copyright, Real-Time Innovations, 2021.  All rights reserved.
+* RTI grants Licensee a license to use, modify, compile, and create derivative
+* works of the software solely for use with RTI Connext DDS. Licensee may
+* redistribute copies of the software provided that all such copies are subject
+* to this license. The software is provided "as is", with no warranty of any
+* type, including any warranty for fitness for any purpose. RTI is under no
+* obligation to maintain or support the software. RTI shall not be liable for
+* any incidental or consequential damages arising out of the use or inability
+* to use the software.
+*/
 
 #include <stdio.h>
 
